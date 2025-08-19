@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b00d0de9-39f5-459e-bb23-057fb194b03a" name="Changes" comment="" />
+    <list default="true" id="b00d0de9-39f5-459e-bb23-057fb194b03a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/reto_literalura/src/main/java/com/aluracursos/literatura/entity/Notas entity" beforeDir="false" afterPath="$PROJECT_DIR$/reto_literalura/src/main/java/com/aluracursos/literatura/entity/Notas entity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -25,6 +30,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Code - IntelliJ IDEA Community/Alura latam/2 - Challenge LITERATURA",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
