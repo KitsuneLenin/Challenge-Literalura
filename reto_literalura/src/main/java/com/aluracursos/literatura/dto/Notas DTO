@@ -1,0 +1,11 @@
+DTO = significa Data Transfer Object (Objeto de Transferencia de Datos).
+
+Un DTO es una clase/estructura que sirve para transportar datos entredistintas capas de una aplicación
+(por ejemplo: de la capa de acceso a datos a la capa de presentación) sin lógica de negocio, solo con atributos.
+
+En el caso de "LibrosDTO" lo creamos para que sea un contenedor de datos así como "AutoresDTO".
+
+Sus campos (title, author, language, downloadCount) representan la información que quieres enviar o recibir.
+
+Al ser un record en Java, automáticamente ya tienes constructor, getters, equals, hashCode y toString sin necesidad
+de escribir código extra.
